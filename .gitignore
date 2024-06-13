@@ -1,5 +1,9 @@
 .DS_Store
 
+*.txt
+
+*.js
+
 # Logs
 logs
 *.log
